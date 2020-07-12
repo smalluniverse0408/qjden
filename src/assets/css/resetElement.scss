@@ -1,0 +1,24 @@
+.el-timeline-item__timestamp {
+  color: #7391c9;
+  font-size: 16px;
+  font-weight: bold;
+}
+@media only screen and (min-width: 768px) {
+  .el-timeline {
+    transform: translateX(50%);
+  }
+  .el-timeline-item {
+    width: 50%;
+  }
+  .timeline-left {
+    .el-timeline-item__timestamp {
+      text-align: right;
+    }
+    .el-timeline-item__wrapper {
+      transform: translateX(-100%);
+      padding-left: 0;
+      padding-right: 16px;
+      text-align: right;
+    }
+  }
+}
