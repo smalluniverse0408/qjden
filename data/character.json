@@ -9,10 +9,14 @@
   { "label": "二姨魏淑芳", "icon": "weishufang.jpg", "contents": ["二姨", "魏淑芳"] },
   { "label": "二姨夫齐志强", "icon": "default.jpg", "contents": ["二姨夫", "齐志强"] },
   { "label": "齐唯民", "icon": "qiweimin.jpg", "contents": ["齐唯民"] },
-  { "label": "文清华", "icon": "default.jpg", "contents": ["文清华"] },
   { "label": "叶小朗", "icon": "default.jpg", "contents": ["叶小朗"] },
   { "label": "项南方", "icon": "default.jpg", "contents": ["项南方"] },
-  { "label": "王一丁", "icon": "default.jpg", "contents": ["王一丁"] },
   { "label": "马素芹", "icon": "masuqin.jpg", "contents": ["马素芹"] },
-  { "label": "孙小茉", "icon": "default.jpg", "contents": ["孙小茉"] }
+  { "label": "孙小茉", "icon": "default.jpg", "contents": ["孙小茉"] },
+  { "label": "王一丁", "icon": "default.jpg", "contents": ["王一丁"] },
+  { "label": "戚成钢", "icon": "default.jpg", "contents": ["戚成钢"] },
+  { "label": "文居岸", "icon": "default.jpg", "contents": ["文居岸"] },
+  { "label": "宋清远", "icon": "default.jpg", "contents": ["宋清远"] },
+  { "label": "文清华", "icon": "default.jpg", "contents": ["文清华"] },
+  { "label": "曲阿英", "icon": "default.jpg", "contents": ["曲阿英"] }
 ]
